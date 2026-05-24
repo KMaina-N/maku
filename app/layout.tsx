@@ -31,7 +31,7 @@ export const metadata: Metadata = {
       "Zagreb-based singer blending soul, global rhythms, and theater arts.",
     type: "profile",
     url: "https://itsmaku.netlify.app", // Keep your domain or change to your actual URL
-    images: [{ url: "/images/maku.jpeg", width: 1200, height: 630 }],
+    images: [{ url: "https://itsmaku.netlify.app/images/maku.jpeg", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",

@@ -170,9 +170,6 @@ export default function MusicCatalogue() {
         
         {/* Editorial Section Header */}
         <div className="flex flex-col mb-16">
-          <p className="font-label text-[0.52rem] tracking-[0.35em] text-zinc-500 mb-2 font-bold uppercase">
-            AUDIO INTERFACE
-          </p>
           <h2 id="catalogue-heading" className="font-label text-[clamp(2.2rem,4.5vw,3.6rem)] font-bold tracking-tight text-white leading-none">
             RELEASED CATALOGUE
           </h2>

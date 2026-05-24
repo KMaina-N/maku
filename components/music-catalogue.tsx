@@ -279,7 +279,7 @@ export default function MusicCatalogue() {
                     </>
                   ) : (
                     <div className="w-full h-full flex flex-col items-center justify-center gap-2 p-8 text-center select-none">
-                      <span className="font-label text-[0.55rem] tracking-[0.25em] text-zinc-600 font-bold uppercase">CONSOLE IDLE</span>
+                      <span className="font-label text-[0.55rem] tracking-[0.25em] text-zinc-600 font-bold uppercase">No Track Selected</span>
                     </div>
                   )}
                 </div>

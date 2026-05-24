@@ -78,7 +78,7 @@ export default function Hero() {
   };
 
   const renderCTAString = () => {
-    if (isPending) return "INITIALIZING...";
+    if (isPending) return "LOADING...";
     if (isPlaying) return "PAUSE SESSION";
     if (activeTrack && !isPlaying) return "RESUME SESSION";
     return "LISTEN NOW";
